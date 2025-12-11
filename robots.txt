@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mp4-hub.github.io/tubidy/sitemap.xml
